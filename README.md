@@ -16,3 +16,7 @@
   <img src="https://github.com/vi-dsouza/Heart-Info-System/blob/main/Sobre%20(1).jpg" alt="Imagem 8" width="100" style="display: inline-block; margin-right: 5px;">
   <img src="https://github.com/vi-dsouza/Heart-Info-System/blob/main/Cuidados%20(1).jpg" alt="Imagem 9" width="100" style="display: inline-block;">
 </p>
+
+## Artigo referente a aplicação  📝
+
+- Leia o [artigo publicado sobre o aplicativo](http://ojs.bonviewpress.com/index.php/AIA/article/view/2045).
